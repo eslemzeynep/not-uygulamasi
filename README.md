@@ -1,2 +1,2 @@
 # not-uygulamasi
-Geliştirici: eslemzeynep (main versiyonu)
+Geliştirici: eslemzeynep (main ve feature versiyonlari birlestirildi)
