@@ -3,3 +3,8 @@ cd: Dizin değiştirir.
 mkdir: Yeni bir dizin (klasör) oluşturur.
 pwd: Şu anda bulunulan dizinin yolunu gösterir.
 rm: Dosya veya dizinleri siler.
+git status: Çalışma alanındaki dosyaların durumunu gösterir.
+git log: Yapılan commit geçmişini listeler.
+git branch: Mevcut dalları listeler.
+git checkout: Farklı bir dala geçiş yapmayı sağlar.
+git diff: Yapılan değişiklikler arasındaki farkları gösterir.
