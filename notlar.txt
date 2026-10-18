@@ -1,0 +1,5 @@
+ls: Dizin içeriğini listeler.
+cd: Dizin değiştirir.
+mkdir: Yeni bir dizin (klasör) oluşturur.
+pwd: Şu anda bulunulan dizinin yolunu gösterir.
+rm: Dosya veya dizinleri siler.
