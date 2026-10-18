@@ -7,4 +7,4 @@ git status: Çalışma alanındaki dosyaların durumunu gösterir.
 git log: Yapılan commit geçmişini listeler.
 git branch: Mevcut dalları listeler.
 git checkout: Farklı bir dala geçiş yapmayı sağlar.
-git diff: Yapılan değişiklikler arasındaki farkları gösterir.
+git diff: Yapılan değişiklikler arasındaki farkları gösterir.Odev tamamlandi
